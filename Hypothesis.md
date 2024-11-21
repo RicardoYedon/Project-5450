@@ -19,3 +19,13 @@ Strategies to Improve Performance:
 Adjust the number of latent factors (k) in SVD.
 Implement regularization techniques to prevent overfitting.
 
+
+
+Hypothesis 2:
+
+Null Hypothesis (H₀): There is no significant difference in performance between the K-NN and SVD models.
+Alternative Hypothesis (H₁): There is a significant difference in performance between K-NN and SVD models.
+Testing Plan:
+
+Method: Use paired t-tests or ANOVA to compare the RMSE and other performance metrics.
+Significance Level: α = 0.05.
