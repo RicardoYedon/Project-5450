@@ -1,4 +1,3 @@
-Implications of Baseline RMSE on Hypothesis Testing
 Hypothesis:
 
 Null Hypothesis (H₀): The advanced models do not significantly improve RMSE compared to the baseline RMSE of 1.0581.
